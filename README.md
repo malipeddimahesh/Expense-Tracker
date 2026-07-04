@@ -36,7 +36,7 @@ Expense-Tracker/
 1. Clone the repository
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/malipeddimahesh/Expense-Tracker
 ```
 
 2. Navigate to the project folder
